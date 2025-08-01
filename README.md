@@ -9,8 +9,8 @@ Clock project using IN-17 Nixie tubes controlled by Arduino Pro Mini and synchro
 ## 📂 Project Structure
 
 - [`docs/`](./docs) — Project documentation PDFs  
-  - `Nixie_Clock_Project_Presentation.pdf` (English)  
-  - `Prezentacja_Projektu_Zegara_Nixie.pdf` (Polish)
+  - [Nixie_Clock_Project_Presentation.pdf (English)](docs/Nixie_Clock_Project_Presentation.pdf)  
+  - [Prezentacja_Projektu_Zegara_Nixie.pdf (Polish)](docs/Prezentacja_Projektu_Zegara_Nixie.pdf)
 
 - [`video/`](./video) — Project videos  
   - `Nixie Tube Digit Display Test.mp4` — local video demonstrating digits test  
