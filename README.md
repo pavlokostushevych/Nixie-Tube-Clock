@@ -59,16 +59,16 @@ Projekt zegara cyfrowego z wykorzystaniem lamp IN-17, sterowanego Arduino Pro Mi
 
 ## 📂 Struktura projektu
 
-- **docs/** — Dokumentacja projektu w formacie PDF  
-  - `Prezentacja_Projektu_Zegara_Nixie.pdf` (wersja polska)  
-  - `Nixie_Clock_Project_Presentation.pdf` (wersja angielska)
+- [`docs/`](./docs) — Dokumentacja projektu w formacie PDF  
+  - [Nixie_Clock_Project_Presentation.pdf (English)](docs/Nixie_Clock_Project_Presentation.pdf)  
+  - [Prezentacja_Projektu_Zegara_Nixie.pdf (Polish)](docs/Prezentacja_Projektu_Zegara_Nixie.pdf)
 
-- **video/** — Filmy dokumentujące projekt  
-  - `Nixie Tube Digit Display Test.mp4` — lokalne wideo testujące wyświetlanie cyfr  
+- [`video/`](./video) — Filmy dokumentujące projekt  
+  - [Nixie Tube Digit Display Test.mp4](video/Nixie%20Tube%20Digit%20Display%20Test.mp4) — lokalne wideo testujące wyświetlanie cyfr  
   - Link do YouTube: [Test wyświetlania cyfr na lampach Nixie](https://youtube.com/shorts/KTlzbwLbgn8?feature=share)
 
-- **photos/** — Zdjęcia dokumentujące projekt  
-  - `Electronic Schematic (KiCad).png` — schemat elektroniczny  
+- [`photos/`](./photos) — Zdjęcia dokumentujące projekt  
+  - [Electronic Schematic (KiCad).png](photos/Electronic%20Schematic%20(KiCad).png) — schemat elektroniczny  
   - Zdjęcia procesu lutowania i uruchomienia
 
 ---
@@ -86,9 +86,9 @@ Projekt prezentuje zegar cyfrowy oparty na lampach Nixie (IN-17), sterowany mikr
 
 ## 📁 Jak korzystać
 
-- Zapoznaj się z dokumentacją w folderze `docs/`.  
-- Obejrzyj film testowy w folderze `video/` lub na [YouTube](https://youtube.com/shorts/KTlzbwLbgn8?feature=share).  
-- Sprawdź zdjęcia w folderze `photos/`.
+- Zapoznaj się z dokumentacją w folderze [`docs/`](./docs).  
+- Obejrzyj film testowy w folderze [`video/`](./video) lub na [YouTube](https://youtube.com/shorts/KTlzbwLbgn8?feature=share).  
+- Sprawdź zdjęcia w folderze [`photos/`](./photos).
 
 ---
 
