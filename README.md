@@ -1,6 +1,6 @@
 📄 Wersja polska poniżej – [Przejdź do wersji PL](#PL)
 
-# 🎉 Nixie Tube Clock
+# ⏰ Nixie Tube Clock
 
 Clock project using IN-17 Nixie tubes controlled by Arduino Pro Mini and synchronized with DS1307 RTC.
 
@@ -51,7 +51,7 @@ LinkedIn: [linkedin.com/in/pavlo-kostushevych-ab364b376](https://linkedin.com/in
 
 # PL
 
-## 🎉 Zegar na lampach Nixie
+## ⏰ Zegar na lampach Nixie
 
 Projekt zegara cyfrowego z wykorzystaniem lamp IN-17, sterowanego Arduino Pro Mini i synchronizowanego modułem RTC DS1307.
 
