@@ -35,9 +35,9 @@ This project showcases a digital clock built using Nixie tubes (IN-17) driven by
 
 ## 📁 How to Use
 
-- Review the detailed documentation in the `docs/` folder.  
-- Watch the digit display test video in the `video/` folder or on [YouTube](https://youtube.com/shorts/KTlzbwLbgn8?feature=share).  
-- Check the `photos/` folder for schematic and assembly images.
+- Review the detailed documentation in the `[`docs/`](./docs)` folder.  
+- Watch the digit display test video in the `[`video/`](./video)` folder or on [YouTube](https://youtube.com/shorts/KTlzbwLbgn8?feature=share).  
+- Check the `[`photos/`](./photos)` folder for schematic and assembly images.
 
 ---
 
