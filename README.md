@@ -17,7 +17,7 @@ Clock project using IN-17 Nixie tubes controlled by Arduino Pro Mini and synchro
   - YouTube link: [Nixie Tube Digit Display Test on YouTube](https://youtube.com/shorts/KTlzbwLbgn8?feature=share)
 
 - [`photos/`](./photos) — Photos documenting the project  
-  - `Electronic Schematic (KiCad).png` — schematic diagram  
+  - [Electronic Schematic (KiCad).png](photos/Electronic%20Schematic%20(KiCad).png) — schematic diagram  
   - Photos of soldering and power-on process
 
 ---
