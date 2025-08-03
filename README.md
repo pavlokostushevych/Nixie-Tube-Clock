@@ -63,6 +63,7 @@ Projekt zegara cyfrowego z wykorzystaniem lamp IN-17, sterowanego Arduino Pro Mi
 - [`docs/`](./docs) — Dokumentacja projektu w formacie PDF  
   - [Nixie_Clock_Project_Presentation.pdf (English)](docs/Nixie_Clock_Project_Presentation.pdf)  
   - [Prezentacja_Projektu_Zegara_Nixie.pdf (Polish)](docs/Prezentacja_Projektu_Zegara_Nixie.pdf)
+  - [Arduino kod](docs/nixieclock.ino)
 
 - [`video/`](./video) — Filmy dokumentujące projekt  
   - [Nixie Tube Digit Display Test.mp4](video/Nixie%20Tube%20Digit%20Display%20Test.mp4) — lokalne wideo testujące wyświetlanie cyfr  
